@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e022b3e9-982d-4cb8-a9ff-3bb1794759d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Nkr Update.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/InitiateDriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationFiles/Config.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigurationFiles/Elements.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataGenerate/DataGen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataGenerate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/Slow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ConfigReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/LoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/test_case_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2wFpceLp6QBgbi6l3GQcH4zMIyG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_case_01.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rahul/PycharmProjects/Nkr Update"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rahul\PycharmProjects\Nkr Update" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e022b3e9-982d-4cb8-a9ff-3bb1794759d0" name="Changes" comment="" />
+      <created>1745647256543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745647256543</updated>
+    </task>
+    <servers />
+  </component>
+</project>
