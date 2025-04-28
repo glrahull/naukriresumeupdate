@@ -21,8 +21,8 @@ def test_combined(data):
     login.click_signin()
     login.is_login_successful()
     login.view_profile()
-    # login.delete_resume()
-    # login.delete_confirmation()
+    login.delete_resume()
+    login.delete_confirmation()
     login.update_resume()
 
 
