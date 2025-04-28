@@ -53,7 +53,7 @@ class LoginClass:
     def update_resume(self):
         try:
             upload_element = driver.find_element(by=By.ID, value=ConfigReader.fetchelementLocators("Login"))
-            upload_element.send_keys(r"C:\Users\rahul\DownloadsRahul Latest CV 18.pdf")
+            upload_element.send_keys(r"C:\Users\rahul\Downloads\Rahul Latest CV 18.pdf")
             print("Resume updated successfully ✅")
         except Exception as e:
             print(f"Resume update failed ❌: {e}")
