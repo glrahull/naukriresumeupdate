@@ -51,9 +51,12 @@ class LoginClass:
         driver.find_element(by=By.XPATH,value=ConfigReader.fetchelementLocators("Login","confirm_delete_xpath")).click()
     @slow_down(5)
     def update_resume(self):
-        upload_element = driver.find_element(by=By.XPATH, value=ConfigReader.fetchelementLocators("Login","reusme_update_button_xpath"))
-        upload_element.send_keys(r"C:\Users\rahul\Downloads\Rahul Latest CV 18.pdf")
-
+        try:
+            upload_element = driver.find_element(by=By.ID, value=ConfigReader.fetchelementLocators("Login"))
+            upload_element.send_keys(r"C:\Users\rahul\Downloads\Rahul Latest CV 18.pdf")
+            print("Resume updated successfully ✅")
+        except Exception as e:
+            print(f"Resume update failed ❌: {e}")
 
 time.sleep(10)
 

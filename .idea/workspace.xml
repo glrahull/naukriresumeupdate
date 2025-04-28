@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e022b3e9-982d-4cb8-a9ff-3bb1794759d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Nkr Update.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/InitiateDriver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigurationFiles/Config.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigurationFiles/Elements.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataGenerate/DataGen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataGenerate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators/Slow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/ConfigReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_case_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigurationFiles/Elements.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigurationFiles/Elements.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_case_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_case_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2wFpceLp6QBgbi6l3GQcH4zMIyG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,7 +32,7 @@
     "Python tests.Python tests in test_case_01.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/rahul/PycharmProjects/Nkr Update"
   }
 }]]></component>
